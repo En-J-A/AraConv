@@ -1,5 +1,4 @@
-# AraConv
-## AraConv: Arabic Conversation model
+# AraConv: Arabic Conversation model
 
 This repository includes the dataset of the paper:
 AraConv: Developing an Arabic Task-Oriented Dialogue System Using Multi-Lingual Transformer Model mT5 [https://www.mdpi.com/2076-3417/12/4/1881]
