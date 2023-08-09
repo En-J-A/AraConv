@@ -23,3 +23,15 @@ The bibtex is listed below:
   publisher={MDPI}
 }
 </pre>
+<pre>
+@article{fuad2022cross,
+  title={Cross-Lingual Transfer Learning for Arabic Task-Oriented Dialogue Systems Using Multilingual Transformer Model mT5},
+  author={Fuad, Ahlam and Al-Yahya, Maha},
+  journal={Mathematics},
+  volume={10},
+  number={5},
+  pages={746},
+  year={2022},
+  publisher={MDPI}
+}
+</pre>
